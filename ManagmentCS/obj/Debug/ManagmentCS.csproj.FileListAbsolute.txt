@@ -1,0 +1,17 @@
+C:\Users\Enigmater\OneDrive\VS projects\Managment\ManagmentCS\ManagmentCS\obj\Debug\ManagmentCS.csproj.AssemblyReference.cache
+C:\Users\Enigmater\OneDrive\VS projects\Managment\ManagmentCS\ManagmentCS\obj\Debug\ManagmentCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enigmater\OneDrive\VS projects\Managment\ManagmentCS\ManagmentCS\obj\Debug\ManagmentCS.BankForm.resources
+C:\Users\Enigmater\OneDrive\VS projects\Managment\ManagmentCS\ManagmentCS\obj\Debug\ManagmentCS.HelpForm.resources
+C:\Users\Enigmater\OneDrive\VS projects\Managment\ManagmentCS\ManagmentCS\obj\Debug\ManagmentCS.PlayForm.resources
+C:\Users\Enigmater\OneDrive\VS projects\Managment\ManagmentCS\ManagmentCS\obj\Debug\ManagmentCS.MainForm.resources
+C:\Users\Enigmater\OneDrive\VS projects\Managment\ManagmentCS\ManagmentCS\obj\Debug\ManagmentCS.ProductionForm.resources
+C:\Users\Enigmater\OneDrive\VS projects\Managment\ManagmentCS\ManagmentCS\obj\Debug\ManagmentCS.Properties.Resources.resources
+C:\Users\Enigmater\OneDrive\VS projects\Managment\ManagmentCS\ManagmentCS\obj\Debug\ManagmentCS.Settings.resources
+C:\Users\Enigmater\OneDrive\VS projects\Managment\ManagmentCS\ManagmentCS\obj\Debug\ManagmentCS.csproj.GenerateResource.cache
+C:\Users\Enigmater\OneDrive\VS projects\Managment\ManagmentCS\ManagmentCS\obj\Debug\ManagmentCS.csproj.CoreCompileInputs.cache
+C:\Users\Enigmater\OneDrive\VS projects\Managment\ManagmentCS\ManagmentCS\bin\Debug\ManagmentCS.exe.config
+C:\Users\Enigmater\OneDrive\VS projects\Managment\ManagmentCS\ManagmentCS\bin\Debug\ManagmentCS.exe
+C:\Users\Enigmater\OneDrive\VS projects\Managment\ManagmentCS\ManagmentCS\bin\Debug\ManagmentCS.pdb
+C:\Users\Enigmater\OneDrive\VS projects\Managment\ManagmentCS\ManagmentCS\obj\Debug\ManagmentCS.exe
+C:\Users\Enigmater\OneDrive\VS projects\Managment\ManagmentCS\ManagmentCS\obj\Debug\ManagmentCS.pdb
+C:\Users\Enigmater\OneDrive\VS projects\Managment\ManagmentCS\ManagmentCS\obj\Debug\ManagmentCS.CreditsForm.resources
